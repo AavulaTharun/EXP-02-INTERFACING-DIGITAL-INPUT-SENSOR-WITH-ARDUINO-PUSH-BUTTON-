@@ -50,11 +50,11 @@ PROCEDURE
 
 
 
-CIRCUIT DIAGRAM 
+### CIRCUIT DIAGRAM 
 
 ![image](https://user-images.githubusercontent.com/93427201/187187615-a48431d8-b90a-4295-b570-f1987dd84d0d.png)
 
-before simulation:
+### before simulation:
 ![out](https://user-images.githubusercontent.com/93427201/187187679-2e56e76d-37d0-4662-95e4-73b08537e2cb.png)
 
 
@@ -68,7 +68,8 @@ FIGURE -03
 
 
 
-PROGRAM :
+## PROGRAM :
+~~~
 // C++ code
 int ledpin=4;
 int pushbtn=2;
@@ -92,14 +93,10 @@ void loop()
   }
 }
  
+~~~ 
  
- 
- 
- 
+### Output of the simulation :
 
-
-
-Output of the simulation :
 ![work](https://user-images.githubusercontent.com/93427201/187187715-fa4f9b61-face-41ce-aeed-4c60f1631bf8.png)
 
 Result:
