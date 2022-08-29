@@ -54,7 +54,7 @@ PROCEDURE
 
 ![image](https://user-images.githubusercontent.com/93427201/187187615-a48431d8-b90a-4295-b570-f1987dd84d0d.png)
 
-### before simulation:
+### Before simulation:
 ![out](https://user-images.githubusercontent.com/93427201/187187679-2e56e76d-37d0-4662-95e4-73b08537e2cb.png)
 
 
@@ -99,6 +99,6 @@ void loop()
 
 ![work](https://user-images.githubusercontent.com/93427201/187187715-fa4f9b61-face-41ce-aeed-4c60f1631bf8.png)
 
-Result:
+### Result:
 Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
 
